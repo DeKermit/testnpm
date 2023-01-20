@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DeKermit/testnpm/issues"
   },
-  "homepage": "https://github.com/DeKermit/testnpm#readme"
+  "homepage": "https://github.com/DeKermit/testnpm#readme",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
